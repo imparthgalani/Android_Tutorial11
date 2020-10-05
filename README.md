@@ -1,5 +1,5 @@
 # Android_Tutorial11
-This android project Will Use Volley Library and work With JSONArray Request use with API JSONArray data in ListView...
+This Android Project Will Use Volley Library and work With JSONArray Request use with API JSONArray data in ListView...
 
 Follow **[Volley Android Library](https://developer.android.com/training/volley)**
 
